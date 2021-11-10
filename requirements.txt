@@ -1,0 +1,6 @@
+wikipedia
+pyjokes
+requests
+geopy
+yfinance
+eyeD3
